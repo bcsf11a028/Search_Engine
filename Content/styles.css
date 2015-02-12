@@ -1,0 +1,516 @@
+body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1000px;
+	 height: 1170px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+	
+ #RefrigeratorCourierB 
+{
+	left: 401px;
+	top: 340px;
+	position: absolute;
+	width: 600px;
+	height: 195px;
+	z-index: 5;
+} 
+
+ #GetRatesReservations 
+{
+	left: 56px;
+	top: 377px;
+	position: absolute;
+	width: 297px;
+	height: 19px;
+	z-index: 6;
+} 
+
+ #PickupDateandLocation
+{
+	left: 22px;
+	top: 422px;
+	position: absolute;
+	width: 243px;
+	height: 19px;
+	z-index: 7;
+} 
+
+ #OtherNecessaryInform 
+{
+	left: 26px;
+	top: 591px;
+	position: absolute;
+	width: 267px;
+	height: 19px;
+	z-index: 8;
+} 
+
+ #ReturnDateandLocation 
+{
+	left: 23px;
+	top: 512px;
+	position: absolute;
+	width: 236px;
+	height: 15px;
+	z-index: 9;
+} 
+
+ #PickupLocation  
+{
+	left: 33px;
+	top: 450px;
+	position: absolute;
+	width: 338px;
+	height: 18px;
+	z-index: 10;
+} 
+
+ #PickupDate
+{
+	left: 58px;
+	top: 474px;
+	position: absolute;
+	width: 300px;
+	height: 18px;
+	z-index: 11;
+} 
+
+ #ReturnLocation 
+{
+	left: 38px;
+	top: 537px;
+	position: absolute;
+	width: 334px;
+	height: 14px;
+	z-index: 12;
+} 
+
+ #Iam25 
+{
+	left: 38px;
+	top: 616px;
+	position: absolute;
+	width: 335px;
+	height: 158px;
+	z-index: 13;
+}
+
+ #ReturnDate 
+{
+	left: 63px;
+	top: 561px;
+	position: absolute;
+	width: 302px;
+	height: 20px;
+	z-index: 16;
+} 
+
+ #Logo 
+{ 
+	 left: -8px; 
+	 top: -4px; 
+	 position: absolute; 
+	 width: 1008px;
+	 height: 90px;
+	 z-index:17;
+} 
+
+ #Logocopy 
+{
+	left: 5px;
+	top: -1px;
+	position: absolute;
+	width: 407px;
+	height: 76px;
+	z-index: 18;
+} 
+
+ #PhoneLogo 
+{
+	left: 792px;
+	top: 4px;
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	z-index: 19;
+} 
+
+ #Layer5 
+{
+	left: -15px;
+	top: 85px;
+	position: absolute;
+	width: 1015px;
+	height: 152px;
+	z-index: 20;
+}
+ #MobileLogo 
+{
+	left: 792px;
+	top: 43px;
+	position: absolute;
+	width: 21px;
+	height: 33px;
+	z-index: 26;
+} 
+
+ #PhoneBookings 
+{
+	left: 836px;
+	top: 9px;
+	position:absolute;
+	width: 161px;
+	height: 20px;
+	z-index: 27;
+} 
+
+ #MoblieBookings 
+{
+	left: 836px;
+	top: 46px;
+	position:absolute;
+	width: 167px;
+	height: 20px;
+	z-index: 28;
+} 
+
+#Menu 
+{
+	left: -16px;
+	top: 271px;
+	position: absolute;
+	width: 1017px;
+	height: 46px;
+	z-index: 29;
+} 
+
+.Home 
+{
+	overflow: hidden;
+	left: 1px;
+	top: 272px;
+	position: absolute;
+	width: 88px;
+	height: 44px;
+	z-index: 30;
+} 
+
+ .Fleet 
+{
+	overflow: hidden;
+	left: 89px;
+	top: 272px;
+	position: absolute;
+	width: 90px;
+	height: 44px;
+	z-index: 31;
+} 
+
+ .Locations 
+{
+	overflow: hidden;
+	left: 177px;
+	top: 272px;
+	position: absolute;
+	width: 137px;
+	height: 44px;
+	z-index: 32;
+} 
+
+ .Reservations 
+{
+	overflow: hidden;
+	left: 312px;
+	top: 272px;
+	position: absolute;
+	width: 175px;
+	height: 44px;
+	z-index: 33;
+} 
+
+ #GetRatesRentalQuotes 
+{
+	left: 1px;
+	top: 339px;
+	position: absolute;
+	width: 392px;
+	height: 537px;
+	z-index: 1;
+} 
+
+.Login 
+{
+	left: 716px;
+	top: 271px;
+	position: absolute;
+	width: 105px;
+	height: 45px;
+	z-index: 35;
+} 
+
+.FAQs 
+{
+	overflow: hidden;
+	left: 484px;
+	top: 272px;
+	position: absolute;
+	width: 91px;
+	height: 44px;
+	z-index: 36;
+} 
+
+.ContactUs 
+{
+	overflow: hidden;
+	left: 572px;
+	top: 272px;
+	position: absolute;
+	width: 143px;
+	height: 44px;
+	z-index: 37;
+} 
+
+#blk
+{
+	left: 845px;
+	top: 272px;
+	position: absolute;
+	width: 157px;
+	height: 45px;
+	z-index: 38;
+} 
+
+ #Shape2 
+{
+	left: -6px;
+	top: 1127px;
+	position: absolute;
+	width: 1002px;
+	z-index: 38;
+} 
+
+ #AllRightsReservedAny 
+{
+	left: 61px;
+	top: 1140px;
+	position: absolute;
+	width: 879px;
+	height: 30px;
+	z-index: 39;
+} 
+
+ #RoundedRectangle1cop 
+{
+	left: 205px;
+	top: 818px;
+	position: absolute;
+	width: 142px;
+	height: 34px;
+	z-index: 46;
+} 
+
+/*VERTPAN*/
+.vertpan img {
+  margin-top: 0px;
+  -webkit-transition: margin 0.25s ease;
+     -moz-transition: margin 0.25s ease;
+       -o-transition: margin 0.25s ease;
+      -ms-transition: margin 0.25s ease;
+          transition: margin 0.25s ease;
+}
+
+.vertpan img:hover {
+  margin-top: -45px;
+}
+
+#container {
+        width: 605px;
+        clear: both;
+    }
+#container input {
+	width: 100%;
+	clear: both;
+}
+
+/*REFRIGERATED COURIERS*/
+#refrigerated-courier-button {
+  position: relative;
+  vertical-align: top;
+  width: 350px;
+  height: 70px;
+  padding: 0;
+  font-size: 22px;
+  color: white;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  background: #21387d;
+  border-radius:10px;
+  cursor: pointer;
+  -webkit-box-shadow: inset 0 -2px #21387d;
+  box-shadow: inset 0 -2px #21387d;
+}
+#refrigerated-courier-button:active {
+  top: 1px;
+  outline: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+/*OTHER COURIERS*/
+.other-courier-button {
+  position: relative;
+  vertical-align: top;
+  width: 243px;
+  height: 70px;
+  padding: 0;
+  font-size: 22px;
+  color: white;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  background: #21387d;
+  border-radius:10px;
+  cursor: pointer;
+  -webkit-box-shadow: inset 0 -2px #21387d;
+  box-shadow: inset 0 -2px #21387d;
+}
+.other-courier-button:active {
+  top: 1px;
+  outline: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+#YourParcel
+{
+	left: 0px;
+	top: 74px;
+	position: absolute;
+	padding: 10px 40px;
+	background: #21387d;
+	width: 519px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	height: 29px;
+} 
+
+/*Refrigerated COURIERS*/
+#Form1 
+{
+	font-family:Verdana, Geneva, sans-serif;
+	left: 0px;
+	top: 123px;
+	position: absolute;
+	padding: 10px 40px;
+	background: #3351ad;/*#374980;*/
+	width: 520px;
+	/*height: 631px;*/
+} 
+
+/*OTHER COURIERS*/
+#Form2 
+{
+	font-family:Verdana, Geneva, sans-serif;
+	left: 0px;
+	top: 123px;
+	position: absolute;
+	padding: 10px 40px;
+	background: #3351ad;/*#374980;*/
+	width: 520px;
+	/*height: 631px;*/
+} 
+
+/*Client Login*/
+.client-login-button {
+  width: 130px;
+  height: 46px;
+  font-size: 15px;
+  font-family:Verdana;
+  color: white;
+  text-align: center;
+  font-weight:bold;
+  background:#7c868d;
+  border:#21387d;
+}
+.client-login-button:active 
+{
+  top: 1px;
+  outline: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+
+
+/*NEXT BUTTON*/
+.next-button {
+  position: relative;
+  margin-left:350px;
+  vertical-align: top;
+  width: 200px;
+  height: 50px;
+  padding: 0;
+  font-size: 22px;
+  color: white;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  background: #21387d;
+  border-radius:10px;
+  border: 0;
+  border-bottom: 2px solid #21387d;
+  cursor: pointer;
+  -webkit-box-shadow: inset 0 -2px #21387d;
+  box-shadow: inset 0 -2px #21387d;
+}
+.next-button:active {
+  top: 1px;
+  outline: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+#fromto
+{
+	word-spacing:235px;
+}
+#BA2
+{
+	margin-left:196px;
+}
+
+#abc
+{
+	margin-right:125px;
+}
+
+#xyz
+{
+	margin-right:125px;
+}
+
+#DD
+{
+	margin-left:20px;
+	word-spacing: 24px;
+	margin-right:125px;
+}
+
+#WT
+{
+	word-spacing: 13px;
+}
+
+#PostcodeSuburb
+{
+	word-spacing:172px;
+}
